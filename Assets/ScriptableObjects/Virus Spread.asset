@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Virus Spread
   m_EditorClassIdentifier: 
   gridSize:
-    x: 200
-    y: 40
-    z: 40
-  wrapGrid: 1
+    x: 100
+    y: 100
+    z: 100
+  wrapGrid: 0
   initialCellAliveChance: 5
   seed: 0
   reSeedOnStart: 1

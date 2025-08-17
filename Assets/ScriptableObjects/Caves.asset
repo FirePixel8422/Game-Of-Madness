@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Caves
   m_EditorClassIdentifier: 
   gridSize:
-    x: 100
-    y: 100
-    z: 100
+    x: 80
+    y: 80
+    z: 80
   wrapGrid: 1
   initialCellAliveChance: 50
   seed: 0

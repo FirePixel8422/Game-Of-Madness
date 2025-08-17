@@ -424,7 +424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rules: {fileID: 11400000, guid: 783d960980b88144e9a02b4d32f8af2c, type: 2}
-  updateInterval: 0.05
+  updateInterval: 0
   updateAsynchronously: 1
   batchSize: 256
   DEBUG_totalBatchSize: 1000000
